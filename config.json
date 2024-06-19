@@ -1,6 +1,6 @@
 {   
     "bot1": {
-        "source": "https://github.com/noo/File_Sharing-Bot",
+        "source": "https://github.com/noonnoobita/File_Sharing-Bot",
         "branch": "File-sharing-Bot",
         "env": {
             "API_HASH": "955f05c16722e99e157125fc025bac41",
@@ -17,7 +17,7 @@
         "run": "python3 main.py"
     },
     "bot2": {
-        "source": "https://github.com/noo/File_Sharing-Bot",
+        "source": "https://github.com/noonnoobita/File_Sharing-Bot",
         "branch": "File-sharing-Bot",
         "env": {
             "API_HASH": "8fc13674e50502c5a9e6b809cac40212",
