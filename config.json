@@ -14,7 +14,7 @@
             "FORCE_SUB_CHANNEL": "-1001913326364",
             "PROTECT_CONTENT": "True",
         },
-        "run": ""
+        "run": "python3 main.py"
     },
     "bot2": {
         "source": "https://github.com/noo/File_Sharing-Bot",
@@ -31,6 +31,6 @@
             "FORCE_SUB_CHANNEL": "-1001913326364",
             "PROTECT_CONTENT": "True",
         },
-        "run": ""
+        "run": "python3 main.py"
     },
 }
